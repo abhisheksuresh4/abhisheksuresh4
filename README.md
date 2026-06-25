@@ -1,5 +1,3 @@
-💫 About Me:
-# Hi, I'm Abhishek 👋<br><br>🚀 Final-year MCA student passionate about Full Stack Development, Cybersecurity, Cloud Computing, and Artificial Intelligence.<br><br>I enjoy building scalable applications, exploring security vulnerabilities, and developing innovative solutions that combine technology with real-world impact. My interests span across software engineering, AI-driven systems, cloud infrastructure, and product development.<br><br>### 💡 What I'm Working On<br><br>* Full Stack Development with React, Vite, Tailwind CSS, Node.js, and modern web technologies<br>* Cybersecurity projects focused on Web Application Security and Intrusion Detection<br>* AI-powered solutions involving NLP, Deep Learning, and Computer Vision<br>* Cloud-based architectures and deployment workflows<br><br>### 🛠️ Tech Stack<br><br>* Frontend: React, JavaScript, HTML, CSS, Tailwind CSS<br>* Backend: Node.js, Express.js<br>* Databases: MySQL, MongoDB<br>* Cloud & DevOps: AWS, Docker, Git, GitHub<br>* Security: Web Security, Vulnerability Assessment, Network Security<br>* AI/ML: Python, TensorFlow, Scikit-Learn, CNNs, NLP<br><br>### 🌱 Currently Learning<br><br>* Advanced Full Stack Development<br>* App Development<br>* Web Application Penetration Testing<br>* Cloud Security<br>* AI for Cybersecurity<br><br>### 🎯 Goals<br><br>* Build secure and scalable products<br>* Contribute to impactful open-source projects<br>* Grow as a Software Engineer and Security Professional<br>* Create technology solutions that solve meaningful problems<br><br>📫 Feel free to connect, collaborate, and build something amazing together.<br>
 
 
 ## 🌐 Socials:
@@ -17,9 +15,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=abhisheksuresh4&icon=1&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
