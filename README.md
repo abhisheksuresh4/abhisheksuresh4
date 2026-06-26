@@ -11,6 +11,8 @@ I enjoy building scalable applications, exploring security vulnerabilities, and 
 * Contribute to impactful open-source projects
 * Grow as a Software Engineer and Security Professional
 * Create technology solutions that solve meaningful problems
+
+
 📫 Feel free to connect, collaborate, and build something amazing together.
 
 
